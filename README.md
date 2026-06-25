@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0018-4sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0561-array-partition](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0804-unique-morse-code-words](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0018-4sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0561-array-partition](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0561-array-partition) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -76,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0796-rotate-string) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
