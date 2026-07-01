@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [3612-process-string-with-special-operations-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0561-array-partition) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 <!---LeetCode Topics End-->
