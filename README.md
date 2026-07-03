@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
+| [0824-goat-latin](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0824-goat-latin) |
 | [0925-long-pressed-name](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0925-long-pressed-name) |
 | [1796-second-largest-digit-in-a-string](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1812-determine-color-of-a-chessboard-square) |
