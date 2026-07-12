@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0804-unique-morse-code-words](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
+| [1331-rank-transform-of-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2399-check-distances-between-same-letters](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2399-check-distances-between-same-letters) |
 | [2451-odd-string-difference](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2451-odd-string-difference) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0018-4sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0561-array-partition) |
+| [1331-rank-transform-of-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0804-unique-morse-code-words) |
+| [1331-rank-transform-of-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2399-check-distances-between-same-letters](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2399-check-distances-between-same-letters) |
 | [2451-odd-string-difference](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2451-odd-string-difference) |
