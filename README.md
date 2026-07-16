@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0925-long-pressed-name) |
 | [1768-merge-strings-alternately](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [3612-process-string-with-special-operations-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3280-convert-date-to-binary) |
 | [3536-maximum-product-of-two-digits](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3908-valid-digit-number](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3908-valid-digit-number) |
 ## Heap (Priority Queue)
 |  |
@@ -135,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
