@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3612-process-string-with-special-operations-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2843-count-symmetric-integers](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2843-count-symmetric-integers) |
 | [3280-convert-date-to-binary](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3280-convert-date-to-binary) |
 | [3536-maximum-product-of-two-digits](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
