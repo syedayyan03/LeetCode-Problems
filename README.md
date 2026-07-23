@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2399-check-distances-between-same-letters) |
 | [2451-odd-string-difference](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2451-odd-string-difference) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3019-number-of-changing-keys](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3019-number-of-changing-keys) |
 | [3280-convert-date-to-binary](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3280-convert-date-to-binary) |
 | [3612-process-string-with-special-operations-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
