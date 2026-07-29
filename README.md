@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Number Theory
