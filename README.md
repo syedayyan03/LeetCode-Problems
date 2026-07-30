@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2399-check-distances-between-same-letters](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2399-check-distances-between-same-letters) |
 | [2451-odd-string-difference](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2451-odd-string-difference) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3019-number-of-changing-keys) |
 | [3146-permutation-difference-between-two-strings](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3280-convert-date-to-binary) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2843-count-symmetric-integers](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2843-count-symmetric-integers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3100-water-bottles-ii](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3100-water-bottles-ii) |
 | [3280-convert-date-to-binary](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3280-convert-date-to-binary) |
 | [3536-maximum-product-of-two-digits](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0561-array-partition) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Counting Sort
 |  |
 | ------- |
