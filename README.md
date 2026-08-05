@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0561-array-partition) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0844-backspace-string-compare](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Number Theory
