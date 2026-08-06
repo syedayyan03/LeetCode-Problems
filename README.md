@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2843-count-symmetric-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3100-water-bottles-ii](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3100-water-bottles-ii) |
 | [3280-convert-date-to-binary](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3280-convert-date-to-binary) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
