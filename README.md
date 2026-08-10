@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0877-stone-game) |
+| [1122-relative-sort-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1122-relative-sort-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0771-jewels-and-stones](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0804-unique-morse-code-words) |
+| [1122-relative-sort-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1796-second-largest-digit-in-a-string](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -210,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0877-stone-game) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
