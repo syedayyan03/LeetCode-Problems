@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2399-check-distances-between-same-letters](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2399-check-distances-between-same-letters) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3100-water-bottles-ii](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3100-water-bottles-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0844-backspace-string-compare](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Number Theory
 |  |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1122-relative-sort-array) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
