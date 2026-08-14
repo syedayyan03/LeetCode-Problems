@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3019-number-of-changing-keys) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3280-convert-date-to-binary) |
 | [3612-process-string-with-special-operations-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-odd-string-difference](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2451-odd-string-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3731-find-missing-elements](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
