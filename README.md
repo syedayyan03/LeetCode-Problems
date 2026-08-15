@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3798-largest-even-number](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3803-count-residue-prefixes) |
 | [3931-check-adjacent-digit-differences](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3931-check-adjacent-digit-differences) |
 ## Hash Table
