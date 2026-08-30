@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2399-check-distances-between-same-letters](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2399-check-distances-between-same-letters) |
 | [2451-odd-string-difference](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2451-odd-string-difference) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0561-array-partition) |
 | [1927-sum-game](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
