@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0925-long-pressed-name) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0771-jewels-and-stones](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0804-unique-morse-code-words) |
 | [1122-relative-sort-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1122-relative-sort-array) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0160-intersection-of-two-linked-lists](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
