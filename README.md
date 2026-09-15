@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0049-group-anagrams) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0561-array-partition) |
 | [1927-sum-game](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
