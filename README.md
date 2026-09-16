@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3798-largest-even-number](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3803-count-residue-prefixes) |
 | [3931-check-adjacent-digit-differences](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3931-check-adjacent-digit-differences) |
+| [4006-count-valid-prefixes](https://github.com/syedayyan03/LeetCode-Problems/tree/master/4006-count-valid-prefixes) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [4006-count-valid-prefixes](https://github.com/syedayyan03/LeetCode-Problems/tree/master/4006-count-valid-prefixes) |
 ## Bit Manipulation
 |  |
 | ------- |
