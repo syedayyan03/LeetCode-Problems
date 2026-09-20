@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3280-convert-date-to-binary) |
+| [3498-reverse-degree-of-a-string](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3100-water-bottles-ii](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3100-water-bottles-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
