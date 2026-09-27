@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1796-second-largest-digit-in-a-string](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1796-second-largest-digit-in-a-string](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2399-check-distances-between-same-letters](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2399-check-distances-between-same-letters) |
 | [2451-odd-string-difference](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2451-odd-string-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
