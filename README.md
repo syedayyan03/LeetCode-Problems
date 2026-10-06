@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0925-long-pressed-name) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0561-array-partition) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0844-backspace-string-compare](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -349,5 +352,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
