@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0162-find-peak-element) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0561-array-partition) |
@@ -305,10 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 ## Queue
 |  |
