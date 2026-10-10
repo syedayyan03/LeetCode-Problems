@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/syedayyan03/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
