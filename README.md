@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3798-largest-even-number](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3798-largest-even-number) |
 | [3803-count-residue-prefixes](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3803-count-residue-prefixes) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/syedayyan03/LeetCode-Problems/tree/master/3931-check-adjacent-digit-differences) |
 | [4006-count-valid-prefixes](https://github.com/syedayyan03/LeetCode-Problems/tree/master/4006-count-valid-prefixes) |
 ## Hash Table
